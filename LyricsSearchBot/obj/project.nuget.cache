@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKpS+TUZvBdAoDTXzxVqLuBxPGM6UbiWnWWYMDWJtv2Uk4K78XSZO694t7haYGcBDXyvVkyNoFsI+lYIiC2Yhg==",
+  "success": true,
+  "projectFilePath": "D:\\programing\\LyricsSearchBot\\LyricsSearchBot\\LyricsSearchBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albert\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Albert\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Albert\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\Albert\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
